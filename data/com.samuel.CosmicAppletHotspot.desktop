@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Hotspot
+Name[pt_BR]=Hotspot
+Comment=COSMIC panel applet to toggle a Wi-Fi hotspot
+Comment[pt_BR]=Applet de painel do COSMIC para ligar e desligar um hotspot Wi-Fi
+Type=Application
+Icon=network-wireless-hotspot-symbolic
+Exec=cosmic-applet-hotspot
+Terminal=false
+StartupNotify=true
+Categories=COSMIC;
+Keywords=COSMIC;Applet;Hotspot;
+NoDisplay=true
+X-CosmicApplet=true
+X-CosmicShrinkable=true
+X-CosmicHoverPopup=Auto
+X-OverflowPriority=10
+MimeType=

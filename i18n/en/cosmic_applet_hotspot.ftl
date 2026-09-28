@@ -1,0 +1,24 @@
+tab-main = Main
+tab-settings = Settings
+hotspot = Hotspot
+status-off = Off
+status-starting = Starting…
+status-on = On — SSID { $ssid }
+confirm-warning = This will disconnect you from Wi-Fi and the phone will have no internet (no cable).
+continue = Continue
+cancel = Cancel
+no-clients = No devices connected
+ssid = SSID
+password = Password
+idle-placeholder = Turn off after N min without clients (0 = never)
+save = Save
+save-hint = Saving restarts the hotspot if it is on.
+err-activate = Failed to activate the hotspot
+err-save-config = Failed to save configuration: { $error }
+err-ssid = SSID must be 1 to 32 bytes
+err-password = Password must be 8 to 63 characters
+err-idle = Auto-off: maximum 240 minutes
+err-no-wifi = No Wi-Fi adapter found
+err-no-profile = Profile not created yet
+err-no-secret = Saved profile has no password
+need-setup = Set the network name and password before turning the hotspot on

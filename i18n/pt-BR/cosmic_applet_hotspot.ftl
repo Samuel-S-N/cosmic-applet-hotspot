@@ -1,0 +1,24 @@
+tab-main = Principal
+tab-settings = Configurações
+hotspot = Hotspot
+status-off = Desligado
+status-starting = Iniciando…
+status-on = Ligado — SSID { $ssid }
+confirm-warning = Isto vai desconectar você do Wi-Fi e o celular ficará sem internet (sem cabo).
+continue = Continuar
+cancel = Cancelar
+no-clients = Nenhum dispositivo conectado
+ssid = SSID
+password = Senha
+idle-placeholder = Desligar após N min sem clientes (0 = nunca)
+save = Salvar
+save-hint = Salvar reinicia o hotspot se estiver ligado.
+err-activate = Falha ao ativar o hotspot
+err-save-config = Falha ao salvar configuração: { $error }
+err-ssid = SSID deve ter 1 a 32 bytes
+err-password = Senha deve ter 8 a 63 caracteres
+err-idle = Auto-desligar: máximo 240 minutos
+err-no-wifi = Nenhum adaptador Wi-Fi encontrado
+err-no-profile = Perfil ainda não criado
+err-no-secret = Perfil salvo não tem senha
+need-setup = Defina o nome da rede e a senha antes de ligar o hotspot
